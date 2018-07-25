@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1532481021966">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1532481227937">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3897679878" ref="index"/>
+    <file name="index.css" crc="4234599903" ref="index"/>
     <file name="nomq_index.css" crc="342445113" ref="index"/>
     <file name="master_a-master.css" crc="3832188900" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
@@ -45,5 +45,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="392814231" seo="true" mt="1532481008893" redirect="true"/>
+  <file name="index.html" crc="3793021173" seo="true" mt="1532481222491" redirect="true"/>
 </manifest>
