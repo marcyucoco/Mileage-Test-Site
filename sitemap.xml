@@ -26,5 +26,47 @@
     <image:image>
       <image:loc>http://mileageclothing.co.uk/images/img_5878-crop-u4542.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_5910-crop-u4503.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_6104-crop-u4523.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_5878-crop-u4543.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_5910-crop-u4504.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_6104-crop-u4524.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_5878-crop-u4544.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://mileageclothing.co.uk/webstore.html</loc>
+    <lastmod>2018-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/header.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://mileageclothing.co.uk/lookbook.html</loc>
+    <lastmod>2018-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/header.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://mileageclothing.co.uk/assets/shopify_button.mulib</loc>
+    <lastmod>2018-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

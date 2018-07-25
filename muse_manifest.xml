@@ -1,30 +1,47 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1532481368171">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1532539627938">
+  <folder name="assets">
+    <file name="shopify_button.mulib" crc="4131339531" seo="true" mt="1532538379000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4014098096" ref="index"/>
-    <file name="nomq_index.css" crc="342445113" ref="index"/>
-    <file name="master_a-master.css" crc="3832188900" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
+    <file name="index.css" crc="263658504" ref="index"/>
+    <file name="nomq_index.css" crc="104441289" ref="index"/>
+    <file name="master_a-master.css" crc="4176836476" ref="index:lookbook:webstore"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:lookbook:webstore"/>
+    <file name="lookbook.css" crc="379832864" ref="lookbook"/>
+    <file name="nomq_lookbook.css" crc="277086226" ref="lookbook"/>
+    <file name="webstore.css" crc="379832864" ref="webstore"/>
+    <file name="nomq_webstore.css" crc="277086226" ref="webstore"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3803043152" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="380897831" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:webstore:lookbook"/>
+    <file name="museutils.js" crc="3803043152" ref="index:webstore:lookbook"/>
+    <file name="whatinput.js" crc="86476730" ref="index:webstore:lookbook"/>
+    <file name="museconfig.js" crc="380897831" ref="index:webstore:lookbook"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:webstore:lookbook"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:webstore:lookbook"/>
+    <file name="require.js" crc="4157109226" ref="index:webstore:lookbook"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="header.jpg" crc="524082710" seo="true" ref="index">
+    <file name="header.jpg" crc="524082710" seo="true" ref="index:webstore:lookbook">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="lookbook" alt=""/>
+      <caption webpage="lookbook" alt=""/>
+      <caption webpage="lookbook" alt=""/>
+      <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:webstore:lookbook"/>
     <file name="img_5910-crop-u450.jpg" crc="165171970" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -44,6 +61,26 @@
     <file name="img_5878-crop-u4542.jpg" crc="162387191" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="img_5910-crop-u4503.jpg" crc="3979710232" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6104-crop-u4523.jpg" crc="32791571" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_5878-crop-u4543.jpg" crc="417576166" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_5910-crop-u4504.jpg" crc="4162434495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6104-crop-u4524.jpg" crc="4125333664" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_5878-crop-u4544.jpg" crc="91267810" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="494698464" seo="true" mt="1532481362894" redirect="true"/>
+  <file name="index.html" crc="353024056" seo="true" mt="1532539606560" redirect="true"/>
+  <file name="webstore.html" crc="372985820" seo="true" mt="1532539606560" redirect="true"/>
+  <file name="lookbook.html" crc="3982502543" seo="true" mt="1532539606560" redirect="true"/>
 </manifest>
