@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1532558199270">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1532558746435">
   <folder name="assets">
     <file name="shopify_button.mulib" crc="4131339531" seo="true" mt="1532538379000"/>
   </folder>
@@ -10,7 +10,7 @@
     <file name="nomq_preview_master_a-master.css" crc="3992450557" ref="index:lookbook:webstore"/>
     <file name="lookbook.css" crc="4023814918" ref="lookbook"/>
     <file name="nomq_lookbook.css" crc="4218415216" ref="lookbook"/>
-    <file name="webstore.css" crc="3956637319" ref="webstore"/>
+    <file name="webstore.css" crc="3879270235" ref="webstore"/>
     <file name="nomq_webstore.css" crc="3909149700" ref="webstore"/>
   </folder>
   <folder name="scripts">
@@ -81,6 +81,6 @@
     </file>
   </folder>
   <file name="index.html" crc="396573941" seo="true" mt="1532556737947" redirect="true"/>
-  <file name="webstore.html" crc="463801908" seo="true" mt="1532558156543" redirect="true"/>
+  <file name="webstore.html" crc="4138499714" seo="true" mt="1532558719434" redirect="true"/>
   <file name="lookbook.html" crc="4168303222" seo="true" mt="1532556737947" redirect="true"/>
 </manifest>
