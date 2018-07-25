@@ -1,17 +1,17 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1532540785395">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1532556759726">
   <folder name="assets">
     <file name="shopify_button.mulib" crc="4131339531" seo="true" mt="1532538379000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="379995821" ref="index"/>
-    <file name="nomq_index.css" crc="55439735" ref="index"/>
-    <file name="master_a-master.css" crc="3935516797" ref="index:lookbook:webstore"/>
+    <file name="index.css" crc="3793129233" ref="index"/>
+    <file name="nomq_index.css" crc="362374052" ref="index"/>
+    <file name="master_a-master.css" crc="4038373362" ref="index:lookbook:webstore"/>
     <file name="nomq_preview_master_a-master.css" crc="3992450557" ref="index:lookbook:webstore"/>
-    <file name="lookbook.css" crc="3874632955" ref="lookbook"/>
-    <file name="nomq_lookbook.css" crc="4188585377" ref="lookbook"/>
-    <file name="webstore.css" crc="3874632955" ref="webstore"/>
-    <file name="nomq_webstore.css" crc="4188585377" ref="webstore"/>
+    <file name="lookbook.css" crc="4023814918" ref="lookbook"/>
+    <file name="nomq_lookbook.css" crc="4218415216" ref="lookbook"/>
+    <file name="webstore.css" crc="4023814918" ref="webstore"/>
+    <file name="nomq_webstore.css" crc="4218415216" ref="webstore"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:webstore:lookbook"/>
@@ -80,7 +80,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="42683892" seo="true" mt="1532540775931" redirect="true"/>
-  <file name="webstore.html" crc="349105467" seo="true" mt="1532540775931" redirect="true"/>
-  <file name="lookbook.html" crc="4014103619" seo="true" mt="1532540775931" redirect="true"/>
+  <file name="index.html" crc="396573941" seo="true" mt="1532556737947" redirect="true"/>
+  <file name="webstore.html" crc="190405029" seo="true" mt="1532556737947" redirect="true"/>
+  <file name="lookbook.html" crc="4168303222" seo="true" mt="1532556737947" redirect="true"/>
 </manifest>
