@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1533520442203">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1533520611526">
   <folder name="assets">
     <file name="shopify_button.mulib" crc="4131339531" seo="true" mt="1532538379000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4178490921" ref="index"/>
+    <file name="index.css" crc="8987006" ref="index"/>
     <file name="nomq_index.css" crc="4057575838" ref="index"/>
     <file name="master_a-master.css" crc="3968749544" ref="index:lookbook:webstore"/>
     <file name="nomq_preview_master_a-master.css" crc="4286468103" ref="index:lookbook:webstore"/>
@@ -34,18 +34,18 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="lookbook" alt=""/>
-      <caption webpage="lookbook" alt=""/>
-      <caption webpage="lookbook" alt=""/>
-      <caption webpage="lookbook" alt=""/>
-      <caption webpage="lookbook" alt=""/>
-      <caption webpage="lookbook" alt=""/>
       <caption webpage="webstore" alt=""/>
       <caption webpage="webstore" alt=""/>
       <caption webpage="webstore" alt=""/>
       <caption webpage="webstore" alt=""/>
       <caption webpage="webstore" alt=""/>
       <caption webpage="webstore" alt=""/>
+      <caption webpage="lookbook" alt=""/>
+      <caption webpage="lookbook" alt=""/>
+      <caption webpage="lookbook" alt=""/>
+      <caption webpage="lookbook" alt=""/>
+      <caption webpage="lookbook" alt=""/>
+      <caption webpage="lookbook" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:webstore:lookbook"/>
     <file name="img_5910-crop-u450.jpg" crc="3969985944" seo="true" ref="index">
@@ -77,7 +77,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="411587663" seo="true" mt="1533520435441" redirect="true"/>
+  <file name="index.html" crc="3810212735" seo="true" mt="1533520601673" redirect="true"/>
   <file name="webstore.html" crc="3799705879" seo="true" mt="1533520435441" redirect="true"/>
   <file name="lookbook.html" crc="30889388" seo="true" mt="1533520435441" redirect="true"/>
 </manifest>
