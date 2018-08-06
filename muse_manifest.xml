@@ -1,17 +1,17 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1533514534899">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1533520286371">
   <folder name="assets">
     <file name="shopify_button.mulib" crc="4131339531" seo="true" mt="1532538379000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4214797857" ref="index"/>
-    <file name="nomq_index.css" crc="4199019238" ref="index"/>
-    <file name="master_a-master.css" crc="3832390153" ref="index:lookbook:webstore"/>
+    <file name="index.css" crc="4044680698" ref="index"/>
+    <file name="nomq_index.css" crc="4057575838" ref="index"/>
+    <file name="master_a-master.css" crc="3968749544" ref="index:lookbook:webstore"/>
     <file name="nomq_preview_master_a-master.css" crc="4286468103" ref="index:lookbook:webstore"/>
-    <file name="lookbook.css" crc="4281855570" ref="lookbook"/>
-    <file name="nomq_lookbook.css" crc="4199019238" ref="lookbook"/>
-    <file name="webstore.css" crc="501317095" ref="webstore"/>
-    <file name="nomq_webstore.css" crc="340618376" ref="webstore"/>
+    <file name="lookbook.css" crc="3913849577" ref="lookbook"/>
+    <file name="nomq_lookbook.css" crc="4226192254" ref="lookbook"/>
+    <file name="webstore.css" crc="385554135" ref="webstore"/>
+    <file name="nomq_webstore.css" crc="3988041438" ref="webstore"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:webstore:lookbook"/>
@@ -33,16 +33,19 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="lookbook" alt=""/>
-      <caption webpage="lookbook" alt=""/>
-      <caption webpage="lookbook" alt=""/>
-      <caption webpage="lookbook" alt=""/>
-      <caption webpage="lookbook" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="webstore" alt=""/>
       <caption webpage="webstore" alt=""/>
       <caption webpage="webstore" alt=""/>
       <caption webpage="webstore" alt=""/>
       <caption webpage="webstore" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="lookbook" alt=""/>
+      <caption webpage="lookbook" alt=""/>
+      <caption webpage="lookbook" alt=""/>
+      <caption webpage="lookbook" alt=""/>
+      <caption webpage="lookbook" alt=""/>
+      <caption webpage="lookbook" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:webstore:lookbook"/>
     <file name="img_5910-crop-u450.jpg" crc="3969985944" seo="true" ref="index">
@@ -74,7 +77,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="346631314" seo="true" mt="1533514529133" redirect="true"/>
-  <file name="webstore.html" crc="64050546" seo="true" mt="1533514529133" redirect="true"/>
-  <file name="lookbook.html" crc="308808062" seo="true" mt="1533514534352" redirect="true"/>
+  <file name="index.html" crc="4183900013" seo="true" mt="1533520178278" redirect="true"/>
+  <file name="webstore.html" crc="3981868963" seo="true" mt="1533520047497" redirect="true"/>
+  <file name="lookbook.html" crc="4002936682" seo="true" mt="1533520047497" redirect="true"/>
 </manifest>
