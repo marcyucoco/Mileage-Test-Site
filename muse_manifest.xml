@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1533520876023">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1533521046523">
   <folder name="assets">
     <file name="shopify_button.mulib" crc="4131339531" seo="true" mt="1532538379000"/>
   </folder>
@@ -34,18 +34,18 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="webstore" alt=""/>
-      <caption webpage="webstore" alt=""/>
-      <caption webpage="webstore" alt=""/>
-      <caption webpage="webstore" alt=""/>
-      <caption webpage="webstore" alt=""/>
-      <caption webpage="webstore" alt=""/>
       <caption webpage="lookbook" alt=""/>
       <caption webpage="lookbook" alt=""/>
       <caption webpage="lookbook" alt=""/>
       <caption webpage="lookbook" alt=""/>
       <caption webpage="lookbook" alt=""/>
       <caption webpage="lookbook" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="webstore" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:webstore:lookbook"/>
     <file name="img_5910-crop-u450.jpg" crc="3969985944" seo="true" ref="index">
@@ -77,7 +77,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="401740375" seo="true" mt="1533520867870" redirect="true"/>
-  <file name="webstore.html" crc="300421225" seo="true" mt="1533520867870" redirect="true"/>
-  <file name="lookbook.html" crc="3906077620" seo="true" mt="1533520867870" redirect="true"/>
+  <file name="index.html" crc="401740375" seo="true" mt="1533521039788" redirect="true"/>
+  <file name="webstore.html" crc="4079193070" seo="true" mt="1533521039788" redirect="true"/>
+  <file name="lookbook.html" crc="3805641260" seo="true" mt="1533521039788" redirect="true"/>
 </manifest>
