@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1533584781527">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1533585662439">
   <folder name="assets">
     <file name="shopify_button.mulib" crc="4131339531" seo="true" mt="1532538379000"/>
   </folder>
@@ -6,56 +6,70 @@
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3785976843" ref="index"/>
     <file name="nomq_index.css" crc="160692308" ref="index"/>
-    <file name="master_a-master.css" crc="221030714" ref="index:lookbook:webstore:terms---conditions"/>
-    <file name="nomq_preview_master_a-master.css" crc="4286468103" ref="index:lookbook:webstore:terms---conditions"/>
+    <file name="master_a-master.css" crc="221030714" ref="index:lookbook:webstore:contact:terms-conditions"/>
+    <file name="nomq_preview_master_a-master.css" crc="4286468103" ref="index:lookbook:webstore:contact:terms-conditions"/>
     <file name="lookbook.css" crc="3815517204" ref="lookbook"/>
     <file name="nomq_lookbook.css" crc="61659828" ref="lookbook"/>
     <file name="webstore.css" crc="3787279175" ref="webstore"/>
     <file name="nomq_webstore.css" crc="3837744582" ref="webstore"/>
-    <file name="terms---conditions.css" crc="448321289" ref="terms---conditions"/>
-    <file name="nomq_terms---conditions.css" crc="98253694" ref="terms---conditions"/>
+    <file name="contact.css" crc="3798588399" ref="contact"/>
+    <file name="nomq_contact.css" crc="3771189813" ref="contact"/>
+    <file name="terms-conditions.css" crc="3988156591" ref="terms-conditions"/>
+    <file name="nomq_terms-conditions.css" crc="4289200937" ref="terms-conditions"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:webstore:lookbook:terms---conditions"/>
-    <file name="museutils.js" crc="3803043152" ref="index:webstore:lookbook:terms---conditions"/>
-    <file name="whatinput.js" crc="86476730" ref="index:webstore:lookbook:terms---conditions"/>
-    <file name="museconfig.js" crc="380897831" ref="index:webstore:lookbook:terms---conditions"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:webstore:lookbook:terms---conditions"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:webstore:lookbook:terms---conditions"/>
-    <file name="require.js" crc="4157109226" ref="index:webstore:lookbook:terms---conditions"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:webstore:lookbook:terms-conditions:contact"/>
+    <file name="museutils.js" crc="3803043152" ref="index:webstore:lookbook:terms-conditions:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:webstore:lookbook:terms-conditions:contact"/>
+    <file name="museconfig.js" crc="380897831" ref="index:webstore:lookbook:terms-conditions:contact"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:webstore:lookbook:terms-conditions:contact"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:webstore:lookbook:terms-conditions:contact"/>
+    <file name="require.js" crc="4157109226" ref="index:webstore:lookbook:terms-conditions:contact"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="header.jpg" crc="524082710" seo="true" ref="index:webstore:lookbook:terms---conditions">
+    <file name="header.jpg" crc="524082710" seo="true" ref="index:webstore:lookbook:terms-conditions:contact">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="terms---conditions" alt=""/>
-      <caption webpage="terms---conditions" alt=""/>
-      <caption webpage="terms---conditions" alt=""/>
-      <caption webpage="terms---conditions" alt=""/>
-      <caption webpage="terms---conditions" alt=""/>
-      <caption webpage="terms---conditions" alt=""/>
       <caption webpage="lookbook" alt=""/>
       <caption webpage="lookbook" alt=""/>
       <caption webpage="lookbook" alt=""/>
       <caption webpage="lookbook" alt=""/>
       <caption webpage="lookbook" alt=""/>
       <caption webpage="lookbook" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="webstore" alt=""/>
       <caption webpage="webstore" alt=""/>
       <caption webpage="webstore" alt=""/>
       <caption webpage="webstore" alt=""/>
       <caption webpage="webstore" alt=""/>
       <caption webpage="webstore" alt=""/>
+      <caption webpage="terms---conditions" alt=""/>
+      <caption webpage="terms---conditions" alt=""/>
+      <caption webpage="terms---conditions" alt=""/>
+      <caption webpage="terms---conditions" alt=""/>
+      <caption webpage="terms---conditions" alt=""/>
+      <caption webpage="terms---conditions" alt=""/>
+      <caption webpage="terms-conditions" alt=""/>
+      <caption webpage="terms-conditions" alt=""/>
+      <caption webpage="terms-conditions" alt=""/>
+      <caption webpage="terms-conditions" alt=""/>
+      <caption webpage="terms-conditions" alt=""/>
+      <caption webpage="terms-conditions" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:webstore:lookbook:terms---conditions"/>
+    <file name="blank.gif" crc="4208392903" ref="index:webstore:lookbook:terms-conditions:contact"/>
     <file name="img_5910-crop-u450.jpg" crc="3969985944" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -85,8 +99,9 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4210085004" seo="true" mt="1533584774439" redirect="true"/>
-  <file name="webstore.html" crc="4165382751" seo="true" mt="1533584415868" redirect="true"/>
-  <file name="lookbook.html" crc="3805951651" seo="true" mt="1533584415868" redirect="true"/>
-  <file name="terms---conditions.html" crc="72330981" seo="true" mt="1533584728592" redirect="true"/>
+  <file name="index.html" crc="471624894" seo="true" mt="1533585586551" redirect="true"/>
+  <file name="webstore.html" crc="448040556" seo="true" mt="1533585586551" redirect="true"/>
+  <file name="lookbook.html" crc="183865716" seo="true" mt="1533585586551" redirect="true"/>
+  <file name="terms-conditions.html" crc="3852027182" seo="true" mt="1533585586551" redirect="true"/>
+  <file name="contact.html" crc="3863315881" seo="true" mt="1533585654763" redirect="true"/>
 </manifest>

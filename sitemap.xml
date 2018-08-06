@@ -37,15 +37,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://mileageclothing.co.uk/webstore.html</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://mileageclothing.co.uk/images/header.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://mileageclothing.co.uk/lookbook.html</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -55,7 +46,25 @@
     </image:image>
   </url>
   <url>
-    <loc>http://mileageclothing.co.uk/terms---conditions.html</loc>
+    <loc>http://mileageclothing.co.uk/webstore.html</loc>
+    <lastmod>2018-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/header.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://mileageclothing.co.uk/terms-conditions.html</loc>
+    <lastmod>2018-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/header.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://mileageclothing.co.uk/contact.html</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
