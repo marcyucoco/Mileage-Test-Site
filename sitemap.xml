@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mileageclothing.co.uk/index.html</loc>
-    <lastmod>2018-08-06</lastmod>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -35,10 +35,28 @@
     <image:image>
       <image:loc>http://mileageclothing.co.uk/images/img_5878-crop-u4543.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_5911-crop-u5190.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_6060-crop-u5192.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_5911-crop-u51902.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_6060-crop-u51922.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_5911-crop-u51903.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_6060-crop-u51923.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://mileageclothing.co.uk/lookbook.html</loc>
-    <lastmod>2018-08-06</lastmod>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -47,7 +65,7 @@
   </url>
   <url>
     <loc>http://mileageclothing.co.uk/webstore.html</loc>
-    <lastmod>2018-08-06</lastmod>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -56,7 +74,7 @@
   </url>
   <url>
     <loc>http://mileageclothing.co.uk/terms-conditions.html</loc>
-    <lastmod>2018-08-06</lastmod>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -65,7 +83,7 @@
   </url>
   <url>
     <loc>http://mileageclothing.co.uk/contact.html</loc>
-    <lastmod>2018-08-06</lastmod>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
