@@ -21,9 +21,6 @@
       <image:loc>http://mileageclothing.co.uk/images/img_6060-crop-u51922.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mileageclothing.co.uk/images/mileage%20fade%20in%20home.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://mileageclothing.co.uk/images/mileage%20fade%20in%20home696x409.png</image:loc>
     </image:image>
     <image:image>
@@ -61,6 +58,15 @@
     </image:image>
     <image:image>
       <image:loc>http://mileageclothing.co.uk/images/img_5878-crop-u100114.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_6104-crop-u10097.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_6104-crop-u100972.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/mileage%20fade%20in%20home.png</image:loc>
     </image:image>
   </url>
   <url>

@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1533690919937">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1533691365617">
   <folder name="assets">
     <file name="shopify_button.mulib" crc="4131339531" seo="true" mt="1532538379000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="510001466" ref="index"/>
-    <file name="nomq_index.css" crc="3806733328" ref="index"/>
+    <file name="index.css" crc="265929739" ref="index"/>
+    <file name="nomq_index.css" crc="99296553" ref="index"/>
     <file name="master_a-master.css" crc="3851309662" ref="index:lookbook:webstore:contact:terms-conditions"/>
     <file name="nomq_preview_master_a-master.css" crc="4286468103" ref="index:lookbook:webstore:contact:terms-conditions"/>
     <file name="lookbook.css" crc="187503246" ref="lookbook"/>
@@ -83,9 +83,6 @@
     <file name="img_6060-crop-u51922.jpg" crc="47081250" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mileage fade in home.png" crc="149393418" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="mileage fade in home696x409.png" crc="149393418" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -125,8 +122,17 @@
     <file name="img_5878-crop-u100114.jpg" crc="3971347236" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="img_6104-crop-u10097.jpg" crc="3981790760" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6104-crop-u100972.jpg" crc="190889490" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mileage fade in home.png" crc="149393418" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="391708936" seo="true" mt="1533690914706" redirect="true"/>
+  <file name="index.html" crc="4219148349" seo="true" mt="1533691314414" redirect="true"/>
   <file name="webstore.html" crc="4041036606" seo="true" mt="1533686711262" redirect="true"/>
   <file name="lookbook.html" crc="105055531" seo="true" mt="1533686711262" redirect="true"/>
   <file name="terms-conditions.html" crc="355140495" seo="true" mt="1533686711262" redirect="true"/>
