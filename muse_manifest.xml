@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1533691365617">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1533692170265">
   <folder name="assets">
     <file name="shopify_button.mulib" crc="4131339531" seo="true" mt="1532538379000"/>
   </folder>
@@ -132,9 +132,9 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4219148349" seo="true" mt="1533691314414" redirect="true"/>
-  <file name="webstore.html" crc="4041036606" seo="true" mt="1533686711262" redirect="true"/>
-  <file name="lookbook.html" crc="105055531" seo="true" mt="1533686711262" redirect="true"/>
-  <file name="terms-conditions.html" crc="355140495" seo="true" mt="1533686711262" redirect="true"/>
-  <file name="contact.html" crc="196685613" seo="true" mt="1533686711262" redirect="true"/>
+  <file name="index.html" crc="3829095157" seo="true" mt="1533692161332" redirect="true"/>
+  <file name="webstore.html" crc="4159307856" seo="true" mt="1533692161332" redirect="true"/>
+  <file name="lookbook.html" crc="4029593249" seo="true" mt="1533692161332" redirect="true"/>
+  <file name="terms-conditions.html" crc="4168381626" seo="true" mt="1533692161332" redirect="true"/>
+  <file name="contact.html" crc="91137699" seo="true" mt="1533692161332" redirect="true"/>
 </manifest>
