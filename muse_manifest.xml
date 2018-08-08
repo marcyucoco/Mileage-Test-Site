@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1533689120743">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1533690919937">
   <folder name="assets">
     <file name="shopify_button.mulib" crc="4131339531" seo="true" mt="1532538379000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4173759242" ref="index"/>
+    <file name="index.css" crc="510001466" ref="index"/>
     <file name="nomq_index.css" crc="3806733328" ref="index"/>
     <file name="master_a-master.css" crc="3851309662" ref="index:lookbook:webstore:contact:terms-conditions"/>
     <file name="nomq_preview_master_a-master.css" crc="4286468103" ref="index:lookbook:webstore:contact:terms-conditions"/>
@@ -70,34 +70,7 @@
       <caption webpage="lookbook" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:webstore:lookbook:terms-conditions:contact"/>
-    <file name="img_5910-crop-u450.jpg" crc="3962252269" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_6104-crop-u452.jpg" crc="455095941" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_5878-crop-u454.jpg" crc="217178990" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="img_5910-crop-u4502.jpg" crc="3962701446" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_6104-crop-u4522.jpg" crc="170868127" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_5878-crop-u4542.jpg" crc="162387191" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_5910-crop-u4503.jpg" crc="4254686805" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_6104-crop-u4523.jpg" crc="4268155085" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_5878-crop-u4543.jpg" crc="4047608712" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="img_5911-crop-u5190.jpg" crc="101966122" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -110,23 +83,50 @@
     <file name="img_6060-crop-u51922.jpg" crc="47081250" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_5910-crop-u4504.jpg" crc="4003735126" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_6104-crop-u4524.jpg" crc="4125333664" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_5878-crop-u4544.jpg" crc="91267810" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="mileage fade in home.png" crc="149393418" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="mileage fade in home696x409.png" crc="149393418" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="img_5910-crop-u9673.jpg" crc="348516437" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6104-crop-u9922.jpg" crc="3921346634" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_5878-crop-u10011.jpg" crc="169657696" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_5910-crop-u96732.jpg" crc="3763762900" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6104-crop-u99222.jpg" crc="442398469" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_5878-crop-u100112.jpg" crc="382439561" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_5910-crop-u96733.jpg" crc="498944591" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6104-crop-u99223.jpg" crc="423575750" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_5878-crop-u100113.jpg" crc="353908199" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_5910-crop-u96734.jpg" crc="4208108221" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6104-crop-u99224.jpg" crc="4262948852" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_5878-crop-u100114.jpg" crc="3971347236" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="86014178" seo="true" mt="1533689097923" redirect="true"/>
+  <file name="index.html" crc="391708936" seo="true" mt="1533690914706" redirect="true"/>
   <file name="webstore.html" crc="4041036606" seo="true" mt="1533686711262" redirect="true"/>
   <file name="lookbook.html" crc="105055531" seo="true" mt="1533686711262" redirect="true"/>
   <file name="terms-conditions.html" crc="355140495" seo="true" mt="1533686711262" redirect="true"/>
