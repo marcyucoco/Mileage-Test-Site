@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x,2x" timestamp="1553659828300">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x,2x" timestamp="1553660531412">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="223100283" ref="terms-conditions:webstore:contact:lookbook:index"/>
     <file name="nomq_preview_master_a-master.css" crc="4286468103" ref="terms-conditions:webstore:contact:lookbook:index"/>
     <file name="terms-conditions.css" crc="255003686" ref="terms-conditions"/>
     <file name="nomq_terms-conditions.css" crc="4020800073" ref="terms-conditions"/>
-    <file name="webstore.css" crc="121680073" ref="webstore"/>
-    <file name="nomq_webstore.css" crc="392129068" ref="webstore"/>
+    <file name="webstore.css" crc="4159410802" ref="webstore"/>
+    <file name="nomq_webstore.css" crc="3903518043" ref="webstore"/>
     <file name="contact.css" crc="3860890229" ref="contact"/>
     <file name="nomq_contact.css" crc="4124353861" ref="contact"/>
     <file name="lookbook.css" crc="4224067164" ref="lookbook"/>
@@ -24,7 +24,7 @@
     <file name="require.js" crc="7928878" ref="index:webstore:lookbook:terms-conditions:contact"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="3780383706" ref="index"/>
+    <file name="a-master-favicon.ico" crc="3780383706" ref="index:webstore"/>
     <file name="header.jpg" crc="48766635" seo="true" ref="index:webstore:lookbook:terms-conditions:contact">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -166,37 +166,19 @@
     <file name="img_9477-crop-u13560.jpg" crc="382696900" seo="true" ref="webstore">
       <caption webpage="webstore" alt=""/>
     </file>
-    <file name="img_9458-crop-u13578.jpg" crc="4235645567" seo="true" ref="webstore">
-      <caption webpage="webstore" alt=""/>
-    </file>
     <file name="img_9477-crop-u135602.jpg" crc="3915373267" seo="true" ref="webstore">
-      <caption webpage="webstore" alt=""/>
-    </file>
-    <file name="img_9458-crop-u135782.jpg" crc="174361848" seo="true" ref="webstore">
       <caption webpage="webstore" alt=""/>
     </file>
     <file name="img_9477-crop-u135603.jpg" crc="3885123684" seo="true" ref="webstore">
       <caption webpage="webstore" alt=""/>
     </file>
-    <file name="img_9458-crop-u135783.jpg" crc="531310859" seo="true" ref="webstore">
-      <caption webpage="webstore" alt=""/>
-    </file>
-    <file name="img_9477-crop-u135604.jpg" crc="4098513142" seo="true" ref="webstore">
-      <caption webpage="webstore" alt=""/>
-    </file>
-    <file name="img_9458-crop-u135784.jpg" crc="159944543" seo="true" ref="webstore">
+    <file name="img_9477-crop-u135604.jpg" crc="4294618329" seo="true" ref="webstore">
       <caption webpage="webstore" alt=""/>
     </file>
     <file name="img_9477-crop-u135605.jpg" crc="3844528931" seo="true" ref="webstore">
       <caption webpage="webstore" alt=""/>
     </file>
-    <file name="img_9458-crop-u135785.jpg" crc="233989642" seo="true" ref="webstore">
-      <caption webpage="webstore" alt=""/>
-    </file>
     <file name="img_9477-crop-u135606.jpg" crc="254487893" seo="true" ref="webstore">
-      <caption webpage="webstore" alt=""/>
-    </file>
-    <file name="img_9458-crop-u135786.jpg" crc="365951109" seo="true" ref="webstore">
       <caption webpage="webstore" alt=""/>
     </file>
     <file name="img_1937-3-crop-u12687_2x.jpg" crc="3790186852" seo="true" ref="index">
@@ -220,37 +202,19 @@
     <file name="img_9477-crop-u13560_2x.jpg" crc="446526416" seo="true" ref="webstore">
       <caption webpage="webstore" alt=""/>
     </file>
-    <file name="img_9458-crop-u13578_2x.jpg" crc="4269278062" seo="true" ref="webstore">
-      <caption webpage="webstore" alt=""/>
-    </file>
     <file name="img_9477-crop-u13560_2x2.jpg" crc="3945587974" seo="true" ref="webstore">
-      <caption webpage="webstore" alt=""/>
-    </file>
-    <file name="img_9458-crop-u13578_2x2.jpg" crc="4117651653" seo="true" ref="webstore">
       <caption webpage="webstore" alt=""/>
     </file>
     <file name="img_9477-crop-u13560_2x3.jpg" crc="4731697" seo="true" ref="webstore">
       <caption webpage="webstore" alt=""/>
     </file>
-    <file name="img_9458-crop-u13578_2x3.jpg" crc="3865968043" seo="true" ref="webstore">
-      <caption webpage="webstore" alt=""/>
-    </file>
-    <file name="img_9477-crop-u13560_2x4.jpg" crc="3866189684" seo="true" ref="webstore">
-      <caption webpage="webstore" alt=""/>
-    </file>
-    <file name="img_9458-crop-u13578_2x4.jpg" crc="4258239433" seo="true" ref="webstore">
+    <file name="img_9477-crop-u13560_2x4.jpg" crc="4166933882" seo="true" ref="webstore">
       <caption webpage="webstore" alt=""/>
     </file>
     <file name="img_9477-crop-u13560_2x5.jpg" crc="77049220" seo="true" ref="webstore">
       <caption webpage="webstore" alt=""/>
     </file>
-    <file name="img_9458-crop-u13578_2x5.jpg" crc="3789183269" seo="true" ref="webstore">
-      <caption webpage="webstore" alt=""/>
-    </file>
     <file name="img_9477-crop-u13560_2x6.jpg" crc="19236209" seo="true" ref="webstore">
-      <caption webpage="webstore" alt=""/>
-    </file>
-    <file name="img_9458-crop-u13578_2x6.jpg" crc="174387217" seo="true" ref="webstore">
       <caption webpage="webstore" alt=""/>
     </file>
     <file name="p1000801_2x.jpg" crc="3773283224" seo="true" ref="lookbook">
@@ -346,9 +310,117 @@
     <file name="img_7175-crop-u11796_2x6.jpg" crc="4161165706" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
+    <file name="img_9458-crop-u13652.jpg" crc="4235645567" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9458-crop-u13652_2x.jpg" crc="4269278062" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9504-crop-u13674.jpg" crc="386136257" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9504-crop-u13674_2x.jpg" crc="3887642643" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9517-crop-u13676.jpg" crc="180833618" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9517-crop-u13676_2x.jpg" crc="4190686911" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9458-crop-u136522.jpg" crc="174361848" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9458-crop-u13652_2x2.jpg" crc="4117651653" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9504-crop-u136742.jpg" crc="4294675529" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9504-crop-u13674_2x2.jpg" crc="4244757800" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9517-crop-u136762.jpg" crc="4016560558" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9517-crop-u13676_2x2.jpg" crc="4166366844" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9458-crop-u136523.jpg" crc="531310859" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9458-crop-u13652_2x3.jpg" crc="3865968043" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9504-crop-u136743.jpg" crc="4252602604" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9504-crop-u13674_2x3.jpg" crc="55816803" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9517-crop-u136763.jpg" crc="4171684805" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9517-crop-u13676_2x3.jpg" crc="98439939" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9458-crop-u136524.jpg" crc="407669856" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9458-crop-u13652_2x4.jpg" crc="4117131565" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9517-crop-u136764.jpg" crc="3803943981" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9517-crop-u13676_2x4.jpg" crc="393496234" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9504-crop-u136744.jpg" crc="323992842" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9504-crop-u13674_2x4.jpg" crc="386940923" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9458-crop-u136525.jpg" crc="233989642" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9458-crop-u13652_2x5.jpg" crc="3789183269" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9504-crop-u136745.jpg" crc="249998021" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9504-crop-u13674_2x5.jpg" crc="453026853" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9517-crop-u136765.jpg" crc="279925836" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9517-crop-u13676_2x5.jpg" crc="3860436145" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9458-crop-u136526.jpg" crc="365951109" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9458-crop-u13652_2x6.jpg" crc="174387217" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9504-crop-u136746.jpg" crc="74311123" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9504-crop-u13674_2x6.jpg" crc="3816662732" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9517-crop-u136766.jpg" crc="125975912" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9517-crop-u13676_2x6.jpg" crc="459341240" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="4127597156" seo="true" mt="1533765698406" redirect="true"/>
-  <file name="webstore.html" crc="76626637" seo="true" mt="1533765698406" redirect="true"/>
+  <file name="webstore.html" crc="3503437" seo="true" mt="1553660510861" redirect="true"/>
   <file name="lookbook.html" crc="3986144807" seo="true" mt="1533765698406" redirect="true"/>
   <file name="terms-conditions.html" crc="4202578793" seo="true" mt="1533765698406" redirect="true"/>
   <file name="contact.html" crc="349557236" seo="true" mt="1533765698406" redirect="true"/>
