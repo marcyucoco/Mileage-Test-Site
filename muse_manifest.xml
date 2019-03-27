@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1553657185689">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1553657324360">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="223100283" ref="terms-conditions:webstore:contact:lookbook:index"/>
@@ -167,7 +167,7 @@
       <caption webpage="lookbook" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4185387057" seo="true" mt="1553657182894" redirect="true"/>
+  <file name="index.html" crc="4185387057" seo="true" mt="1553657205230" redirect="true"/>
   <file name="webstore.html" crc="4220169507" seo="true" mt="1553649026217" redirect="true"/>
   <file name="lookbook.html" crc="4285926558" seo="true" mt="1536418548841" redirect="true"/>
   <file name="terms-conditions.html" crc="3780571794" seo="true" mt="1533766512387" redirect="true"/>
