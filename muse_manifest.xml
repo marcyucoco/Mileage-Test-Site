@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1553657324360">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1553659356882">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="223100283" ref="terms-conditions:webstore:contact:lookbook:index"/>
     <file name="nomq_preview_master_a-master.css" crc="4286468103" ref="terms-conditions:webstore:contact:lookbook:index"/>
     <file name="terms-conditions.css" crc="255003686" ref="terms-conditions"/>
     <file name="nomq_terms-conditions.css" crc="4020800073" ref="terms-conditions"/>
-    <file name="webstore.css" crc="4014425946" ref="webstore"/>
-    <file name="nomq_webstore.css" crc="4106583725" ref="webstore"/>
+    <file name="webstore.css" crc="3947896318" ref="webstore"/>
+    <file name="nomq_webstore.css" crc="4003696033" ref="webstore"/>
     <file name="contact.css" crc="3860890229" ref="contact"/>
     <file name="nomq_contact.css" crc="4124353861" ref="contact"/>
     <file name="lookbook.css" crc="4224067164" ref="lookbook"/>
     <file name="nomq_lookbook.css" crc="106252135" ref="lookbook"/>
-    <file name="index.css" crc="4279340815" ref="index"/>
-    <file name="nomq_index.css" crc="287423208" ref="index"/>
+    <file name="index.css" crc="165873221" ref="index"/>
+    <file name="nomq_index.css" crc="4291960827" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:webstore:lookbook:terms-conditions:contact"/>
@@ -166,9 +166,45 @@
     <file name="img_7175-crop-u117966.jpg" crc="112587184" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
+    <file name="img_9477-crop-u13560.jpg" crc="478764640" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9458-crop-u13578.jpg" crc="245393657" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9477-crop-u135602.jpg" crc="4289807651" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9458-crop-u135782.jpg" crc="4158019542" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9477-crop-u135603.jpg" crc="116122969" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9458-crop-u135783.jpg" crc="3944015366" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9477-crop-u135604.jpg" crc="3913798108" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9458-crop-u135784.jpg" crc="73347444" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9477-crop-u135605.jpg" crc="4253140585" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9458-crop-u135785.jpg" crc="3948906820" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9477-crop-u135606.jpg" crc="3965129143" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9458-crop-u135786.jpg" crc="4062120979" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4185387057" seo="true" mt="1553657205230" redirect="true"/>
-  <file name="webstore.html" crc="4220169507" seo="true" mt="1553649026217" redirect="true"/>
+  <file name="index.html" crc="365464664" seo="true" mt="1553658955875" redirect="true"/>
+  <file name="webstore.html" crc="3849761254" seo="true" mt="1553659352772" redirect="true"/>
   <file name="lookbook.html" crc="4285926558" seo="true" mt="1536418548841" redirect="true"/>
   <file name="terms-conditions.html" crc="3780571794" seo="true" mt="1533766512387" redirect="true"/>
   <file name="contact.html" crc="349557236" seo="true" mt="1533765698406" redirect="true"/>
