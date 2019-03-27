@@ -1,17 +1,17 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1553659590395">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1553659720644">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="223100283" ref="terms-conditions:webstore:contact:lookbook:index"/>
     <file name="nomq_preview_master_a-master.css" crc="4286468103" ref="terms-conditions:webstore:contact:lookbook:index"/>
     <file name="terms-conditions.css" crc="255003686" ref="terms-conditions"/>
     <file name="nomq_terms-conditions.css" crc="4020800073" ref="terms-conditions"/>
-    <file name="webstore.css" crc="3947896318" ref="webstore"/>
+    <file name="webstore.css" crc="4044691815" ref="webstore"/>
     <file name="nomq_webstore.css" crc="4003696033" ref="webstore"/>
     <file name="contact.css" crc="3860890229" ref="contact"/>
     <file name="nomq_contact.css" crc="4124353861" ref="contact"/>
     <file name="lookbook.css" crc="4224067164" ref="lookbook"/>
     <file name="nomq_lookbook.css" crc="106252135" ref="lookbook"/>
-    <file name="index.css" crc="43562757" ref="index"/>
+    <file name="index.css" crc="131570939" ref="index"/>
     <file name="nomq_index.css" crc="4291960827" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -203,8 +203,8 @@
       <caption webpage="webstore" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4188983516" seo="true" mt="1553659566311" redirect="true"/>
-  <file name="webstore.html" crc="3849761254" seo="true" mt="1553659352772" redirect="true"/>
+  <file name="index.html" crc="4022884508" seo="true" mt="1553659704596" redirect="true"/>
+  <file name="webstore.html" crc="81637438" seo="true" mt="1553659695844" redirect="true"/>
   <file name="lookbook.html" crc="4285926558" seo="true" mt="1536418548841" redirect="true"/>
   <file name="terms-conditions.html" crc="3780571794" seo="true" mt="1533766512387" redirect="true"/>
   <file name="contact.html" crc="349557236" seo="true" mt="1533765698406" redirect="true"/>
