@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mileageclothing.co.uk/index.html</loc>
-    <lastmod>2019-03-27</lastmod>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -26,10 +26,28 @@
     <image:image>
       <image:loc>http://mileageclothing.co.uk/images/img_1945-crop-u126714.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_1937-3-crop-u12687_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_1937-3-crop-u12687_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_1945-crop-u12671_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_1945-crop-u12671_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_1945-crop-u12671_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_1945-crop-u12671_2x4.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://mileageclothing.co.uk/webstore.html</loc>
-    <lastmod>2019-03-27</lastmod>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -71,10 +89,46 @@
     <image:image>
       <image:loc>http://mileageclothing.co.uk/images/img_9458-crop-u135786.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_9477-crop-u13560_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_9458-crop-u13578_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_9477-crop-u13560_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_9458-crop-u13578_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_9477-crop-u13560_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_9458-crop-u13578_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_9477-crop-u13560_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_9458-crop-u13578_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_9477-crop-u13560_2x5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_9458-crop-u13578_2x5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_9477-crop-u13560_2x6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_9458-crop-u13578_2x6.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://mileageclothing.co.uk/lookbook.html</loc>
-    <lastmod>2018-09-08</lastmod>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -97,9 +151,6 @@
     </image:image>
     <image:image>
       <image:loc>http://mileageclothing.co.uk/images/p1000801537x403.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mileageclothing.co.uk/images/img_7362372x249.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mileageclothing.co.uk/images/img_7252367x551.jpg</image:loc>
@@ -169,6 +220,99 @@
     </image:image>
     <image:image>
       <image:loc>http://mileageclothing.co.uk/images/img_7175-crop-u117966.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/p1000801_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_7362_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_7252_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/p1000755_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_7175-crop-u11796_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/p1000801537x403_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_7362372x248.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_7362372x248_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_7252367x551_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/p1000755436x327_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_7175-crop-u11796_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/p1000801399x300_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_7362282x188_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_7252272x408_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/p1000755322x242_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_7175-crop-u11796_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/p1000801291x218_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_7362206x137_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_7252198x297_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/p1000755235x176_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_7175-crop-u11796_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/p1000801264x198_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_7362186x124_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_7252180x269_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/p1000755213x160_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_7175-crop-u11796_2x5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/p1000801225x169_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_7362159x106_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_7252153x230_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/p1000755182x137_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mileageclothing.co.uk/images/img_7175-crop-u11796_2x6.jpg</image:loc>
     </image:image>
   </url>
   <url>

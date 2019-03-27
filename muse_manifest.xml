@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x" timestamp="1553659720644">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x,2x" timestamp="1553659828300">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="223100283" ref="terms-conditions:webstore:contact:lookbook:index"/>
     <file name="nomq_preview_master_a-master.css" crc="4286468103" ref="terms-conditions:webstore:contact:lookbook:index"/>
     <file name="terms-conditions.css" crc="255003686" ref="terms-conditions"/>
     <file name="nomq_terms-conditions.css" crc="4020800073" ref="terms-conditions"/>
-    <file name="webstore.css" crc="4044691815" ref="webstore"/>
-    <file name="nomq_webstore.css" crc="4003696033" ref="webstore"/>
+    <file name="webstore.css" crc="121680073" ref="webstore"/>
+    <file name="nomq_webstore.css" crc="392129068" ref="webstore"/>
     <file name="contact.css" crc="3860890229" ref="contact"/>
     <file name="nomq_contact.css" crc="4124353861" ref="contact"/>
     <file name="lookbook.css" crc="4224067164" ref="lookbook"/>
@@ -25,7 +25,7 @@
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="3780383706" ref="index"/>
-    <file name="header.jpg" crc="12291452" seo="true" ref="index:webstore:lookbook:terms-conditions:contact">
+    <file name="header.jpg" crc="48766635" seo="true" ref="index:webstore:lookbook:terms-conditions:contact">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -58,154 +58,298 @@
       <caption webpage="lookbook" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:webstore:lookbook:terms-conditions:contact"/>
-    <file name="img_1937-3-crop-u12687.jpg" crc="531238550" seo="true" ref="index">
+    <file name="img_1937-3-crop-u12687.jpg" crc="3846844240" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_1937-3-crop-u126872.jpg" crc="3924890938" seo="true" ref="index">
+    <file name="img_1937-3-crop-u126872.jpg" crc="246001810" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_1945-crop-u12671.jpg" crc="4242355637" seo="true" ref="index">
+    <file name="img_1945-crop-u12671.jpg" crc="3808127697" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_1945-crop-u126712.jpg" crc="4184135429" seo="true" ref="index">
+    <file name="img_1945-crop-u126712.jpg" crc="73806277" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_1945-crop-u126713.jpg" crc="4128940203" seo="true" ref="index">
+    <file name="img_1945-crop-u126713.jpg" crc="403028745" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_1945-crop-u126714.jpg" crc="448975301" seo="true" ref="index">
+    <file name="img_1945-crop-u126714.jpg" crc="4013507434" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1000801.jpg" crc="172285107" seo="true" ref="lookbook">
+    <file name="p1000801.jpg" crc="4206705670" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="img_7362.jpg" crc="4060713642" seo="true" ref="lookbook">
+    <file name="img_7362.jpg" crc="317411711" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="img_7252.jpg" crc="3866373422" seo="true" ref="lookbook">
+    <file name="img_7252.jpg" crc="3794685444" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="p1000755.jpg" crc="4146282851" seo="true" ref="lookbook">
+    <file name="p1000755.jpg" crc="353173244" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="img_7175-crop-u11796.jpg" crc="4155780961" seo="true" ref="lookbook">
+    <file name="img_7175-crop-u11796.jpg" crc="192264698" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="p1000801537x403.jpg" crc="74156057" seo="true" ref="lookbook">
+    <file name="p1000801537x403.jpg" crc="4214834787" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="img_7362372x249.jpg" crc="4275721216" seo="true" ref="lookbook">
+    <file name="img_7252367x551.jpg" crc="323450456" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="img_7252367x551.jpg" crc="3952294474" seo="true" ref="lookbook">
+    <file name="p1000755436x327.jpg" crc="4175864815" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="p1000755436x327.jpg" crc="3900799701" seo="true" ref="lookbook">
+    <file name="img_7175-crop-u117962.jpg" crc="55374910" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="img_7175-crop-u117962.jpg" crc="4280222488" seo="true" ref="lookbook">
+    <file name="p1000801399x300.jpg" crc="480680960" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="p1000801399x300.jpg" crc="4270735894" seo="true" ref="lookbook">
+    <file name="img_7362282x188.jpg" crc="377540055" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="img_7362282x188.jpg" crc="12246690" seo="true" ref="lookbook">
+    <file name="img_7252272x408.jpg" crc="4207812444" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="img_7252272x408.jpg" crc="3760834646" seo="true" ref="lookbook">
+    <file name="p1000755322x242.jpg" crc="91828939" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="p1000755322x242.jpg" crc="228185268" seo="true" ref="lookbook">
+    <file name="img_7175-crop-u117963.jpg" crc="399648559" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="img_7175-crop-u117963.jpg" crc="46742858" seo="true" ref="lookbook">
+    <file name="p1000801291x218.jpg" crc="289028371" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="p1000801291x218.jpg" crc="185480630" seo="true" ref="lookbook">
+    <file name="img_7362206x137.jpg" crc="4011502651" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="img_7362206x137.jpg" crc="528044666" seo="true" ref="lookbook">
+    <file name="img_7252198x297.jpg" crc="320774381" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="img_7252198x297.jpg" crc="3911324413" seo="true" ref="lookbook">
+    <file name="p1000755235x176.jpg" crc="3844028696" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="p1000755235x176.jpg" crc="55814959" seo="true" ref="lookbook">
+    <file name="img_7175-crop-u117964.jpg" crc="456047562" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="img_7175-crop-u117964.jpg" crc="4113601423" seo="true" ref="lookbook">
+    <file name="p1000801264x198.jpg" crc="3926686225" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="p1000801264x198.jpg" crc="177648286" seo="true" ref="lookbook">
+    <file name="img_7362186x124.jpg" crc="13911884" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="img_7362186x124.jpg" crc="418077214" seo="true" ref="lookbook">
+    <file name="img_7252180x269.jpg" crc="72588443" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="img_7252180x269.jpg" crc="153020319" seo="true" ref="lookbook">
+    <file name="p1000755213x160.jpg" crc="4292173602" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="p1000755213x160.jpg" crc="4230979541" seo="true" ref="lookbook">
+    <file name="img_7175-crop-u117965.jpg" crc="3850611811" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="img_7175-crop-u117965.jpg" crc="511522377" seo="true" ref="lookbook">
+    <file name="p1000801225x169.jpg" crc="252556939" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="p1000801225x169.jpg" crc="4222524032" seo="true" ref="lookbook">
+    <file name="img_7362159x106.jpg" crc="4077644941" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="img_7362159x106.jpg" crc="4178022760" seo="true" ref="lookbook">
+    <file name="img_7252153x230.jpg" crc="31441018" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="img_7252153x230.jpg" crc="37444604" seo="true" ref="lookbook">
+    <file name="p1000755182x137.jpg" crc="4127041009" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="p1000755182x137.jpg" crc="19307940" seo="true" ref="lookbook">
+    <file name="img_7175-crop-u117966.jpg" crc="68788512" seo="true" ref="lookbook">
       <caption webpage="lookbook" alt=""/>
     </file>
-    <file name="img_7175-crop-u117966.jpg" crc="112587184" seo="true" ref="lookbook">
-      <caption webpage="lookbook" alt=""/>
-    </file>
-    <file name="img_9477-crop-u13560.jpg" crc="478764640" seo="true" ref="webstore">
+    <file name="img_9477-crop-u13560.jpg" crc="382696900" seo="true" ref="webstore">
       <caption webpage="webstore" alt=""/>
     </file>
-    <file name="img_9458-crop-u13578.jpg" crc="245393657" seo="true" ref="webstore">
+    <file name="img_9458-crop-u13578.jpg" crc="4235645567" seo="true" ref="webstore">
       <caption webpage="webstore" alt=""/>
     </file>
-    <file name="img_9477-crop-u135602.jpg" crc="4289807651" seo="true" ref="webstore">
+    <file name="img_9477-crop-u135602.jpg" crc="3915373267" seo="true" ref="webstore">
       <caption webpage="webstore" alt=""/>
     </file>
-    <file name="img_9458-crop-u135782.jpg" crc="4158019542" seo="true" ref="webstore">
+    <file name="img_9458-crop-u135782.jpg" crc="174361848" seo="true" ref="webstore">
       <caption webpage="webstore" alt=""/>
     </file>
-    <file name="img_9477-crop-u135603.jpg" crc="116122969" seo="true" ref="webstore">
+    <file name="img_9477-crop-u135603.jpg" crc="3885123684" seo="true" ref="webstore">
       <caption webpage="webstore" alt=""/>
     </file>
-    <file name="img_9458-crop-u135783.jpg" crc="3944015366" seo="true" ref="webstore">
+    <file name="img_9458-crop-u135783.jpg" crc="531310859" seo="true" ref="webstore">
       <caption webpage="webstore" alt=""/>
     </file>
-    <file name="img_9477-crop-u135604.jpg" crc="3913798108" seo="true" ref="webstore">
+    <file name="img_9477-crop-u135604.jpg" crc="4098513142" seo="true" ref="webstore">
       <caption webpage="webstore" alt=""/>
     </file>
-    <file name="img_9458-crop-u135784.jpg" crc="73347444" seo="true" ref="webstore">
+    <file name="img_9458-crop-u135784.jpg" crc="159944543" seo="true" ref="webstore">
       <caption webpage="webstore" alt=""/>
     </file>
-    <file name="img_9477-crop-u135605.jpg" crc="4253140585" seo="true" ref="webstore">
+    <file name="img_9477-crop-u135605.jpg" crc="3844528931" seo="true" ref="webstore">
       <caption webpage="webstore" alt=""/>
     </file>
-    <file name="img_9458-crop-u135785.jpg" crc="3948906820" seo="true" ref="webstore">
+    <file name="img_9458-crop-u135785.jpg" crc="233989642" seo="true" ref="webstore">
       <caption webpage="webstore" alt=""/>
     </file>
-    <file name="img_9477-crop-u135606.jpg" crc="3965129143" seo="true" ref="webstore">
+    <file name="img_9477-crop-u135606.jpg" crc="254487893" seo="true" ref="webstore">
       <caption webpage="webstore" alt=""/>
     </file>
-    <file name="img_9458-crop-u135786.jpg" crc="4062120979" seo="true" ref="webstore">
+    <file name="img_9458-crop-u135786.jpg" crc="365951109" seo="true" ref="webstore">
       <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_1937-3-crop-u12687_2x.jpg" crc="3790186852" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1937-3-crop-u12687_2x2.jpg" crc="21659097" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1945-crop-u12671_2x.jpg" crc="170419301" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1945-crop-u12671_2x2.jpg" crc="235073345" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1945-crop-u12671_2x3.jpg" crc="359738538" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1945-crop-u12671_2x4.jpg" crc="3781428348" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_9477-crop-u13560_2x.jpg" crc="446526416" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9458-crop-u13578_2x.jpg" crc="4269278062" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9477-crop-u13560_2x2.jpg" crc="3945587974" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9458-crop-u13578_2x2.jpg" crc="4117651653" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9477-crop-u13560_2x3.jpg" crc="4731697" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9458-crop-u13578_2x3.jpg" crc="3865968043" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9477-crop-u13560_2x4.jpg" crc="3866189684" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9458-crop-u13578_2x4.jpg" crc="4258239433" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9477-crop-u13560_2x5.jpg" crc="77049220" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9458-crop-u13578_2x5.jpg" crc="3789183269" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9477-crop-u13560_2x6.jpg" crc="19236209" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="img_9458-crop-u13578_2x6.jpg" crc="174387217" seo="true" ref="webstore">
+      <caption webpage="webstore" alt=""/>
+    </file>
+    <file name="p1000801_2x.jpg" crc="3773283224" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="img_7362_2x.jpg" crc="182522408" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="img_7252_2x.jpg" crc="4143451478" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="p1000755_2x.jpg" crc="3992881541" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="img_7175-crop-u11796_2x.jpg" crc="4077732865" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="p1000801537x403_2x.jpg" crc="4286938595" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="img_7362372x248.jpg" crc="4273995816" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="img_7362372x248_2x.jpg" crc="56971624" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="img_7252367x551_2x.jpg" crc="444426462" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="p1000755436x327_2x.jpg" crc="4243110459" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="img_7175-crop-u11796_2x2.jpg" crc="4127597032" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="p1000801399x300_2x.jpg" crc="458290670" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="img_7362282x188_2x.jpg" crc="86299940" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="img_7252272x408_2x.jpg" crc="3992125048" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="p1000755322x242_2x.jpg" crc="3979476106" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="img_7175-crop-u11796_2x3.jpg" crc="4060849999" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="p1000801291x218_2x.jpg" crc="418280711" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="img_7362206x137_2x.jpg" crc="16840101" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="img_7252198x297_2x.jpg" crc="3944728099" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="p1000755235x176_2x.jpg" crc="3800070810" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="img_7175-crop-u11796_2x4.jpg" crc="3938218248" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="p1000801264x198_2x.jpg" crc="4206886246" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="img_7362186x124_2x.jpg" crc="4273995816" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="img_7252180x269_2x.jpg" crc="3967519875" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="p1000755213x160_2x.jpg" crc="462331389" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="img_7175-crop-u11796_2x5.jpg" crc="4163483525" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="p1000801225x169_2x.jpg" crc="24679046" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="img_7362159x106_2x.jpg" crc="4282512205" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="img_7252153x230_2x.jpg" crc="417181493" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="p1000755182x137_2x.jpg" crc="3880344026" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
+    </file>
+    <file name="img_7175-crop-u11796_2x6.jpg" crc="4161165706" seo="true" ref="lookbook">
+      <caption webpage="lookbook" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4022884508" seo="true" mt="1553659704596" redirect="true"/>
-  <file name="webstore.html" crc="81637438" seo="true" mt="1553659695844" redirect="true"/>
-  <file name="lookbook.html" crc="4285926558" seo="true" mt="1536418548841" redirect="true"/>
-  <file name="terms-conditions.html" crc="3780571794" seo="true" mt="1533766512387" redirect="true"/>
+  <file name="index.html" crc="4127597156" seo="true" mt="1533765698406" redirect="true"/>
+  <file name="webstore.html" crc="76626637" seo="true" mt="1533765698406" redirect="true"/>
+  <file name="lookbook.html" crc="3986144807" seo="true" mt="1533765698406" redirect="true"/>
+  <file name="terms-conditions.html" crc="4202578793" seo="true" mt="1533765698406" redirect="true"/>
   <file name="contact.html" crc="349557236" seo="true" mt="1533765698406" redirect="true"/>
 </manifest>
