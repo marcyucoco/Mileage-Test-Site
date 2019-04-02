@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x,2x" timestamp="1554178825513">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x,2x" timestamp="1554181499605">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4059248257" ref="terms-conditions:contact:lookbook:index:store:untitled-7:tracksuit-blackneon-green"/>
@@ -60,12 +60,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="webstore" alt=""/>
-      <caption webpage="webstore" alt=""/>
-      <caption webpage="webstore" alt=""/>
-      <caption webpage="webstore" alt=""/>
-      <caption webpage="webstore" alt=""/>
-      <caption webpage="webstore" alt=""/>
       <caption webpage="store" alt=""/>
       <caption webpage="store" alt=""/>
       <caption webpage="store" alt=""/>
@@ -78,6 +72,12 @@
       <caption webpage="tracksuit-blackneon-green" alt=""/>
       <caption webpage="tracksuit-blackneon-green" alt=""/>
       <caption webpage="tracksuit-blackneon-green" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="webstore" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:lookbook:terms-conditions:contact:store:tracksuit-blackneon-green:untitled-7"/>
     <file name="img_1937-3-crop-u12687.jpg" crc="3846844240" seo="true" ref="index">
@@ -301,7 +301,7 @@
   <file name="lookbook.html" crc="252606314" seo="true" mt="1553690534381" redirect="true"/>
   <file name="terms-conditions.html" crc="509974560" seo="true" mt="1553690534376" redirect="true"/>
   <file name="contact.html" crc="4133794687" seo="true" mt="1553690534376" redirect="true"/>
-  <file name="store.html" crc="345763028" seo="true" mt="1554178815920" redirect="true"/>
+  <file name="store.html" crc="4003223159" seo="true" mt="1554181486027" redirect="true"/>
   <file name="tracksuit-blackneon-green.html" crc="289269450" seo="true" mt="1554177708457" redirect="true"/>
   <file name="untitled-7.html" crc="194047496" seo="true" mt="1554177653301" redirect="true"/>
 </manifest>
