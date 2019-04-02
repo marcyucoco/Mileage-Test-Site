@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x,2x" timestamp="1554183595149">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x,2x" timestamp="1554184815836">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4059248257" ref="terms-conditions:contact:lookbook:index:store:cold-nights-lookbook"/>
@@ -9,10 +9,10 @@
     <file name="nomq_contact.css" crc="4124353861" ref="contact"/>
     <file name="lookbook.css" crc="4074855121" ref="lookbook"/>
     <file name="nomq_lookbook.css" crc="4026921262" ref="lookbook"/>
-    <file name="index.css" crc="3939452868" ref="index"/>
-    <file name="nomq_index.css" crc="4006383901" ref="index"/>
-    <file name="store.css" crc="4202696876" ref="store"/>
-    <file name="nomq_store.css" crc="237105199" ref="store"/>
+    <file name="index.css" crc="124667053" ref="index"/>
+    <file name="nomq_index.css" crc="3875080831" ref="index"/>
+    <file name="store.css" crc="4000777631" ref="store"/>
+    <file name="nomq_store.css" crc="484810752" ref="store"/>
     <file name="cold-nights-lookbook.css" crc="14871254" ref="cold-nights-lookbook"/>
     <file name="nomq_cold-nights-lookbook.css" crc="4091118963" ref="cold-nights-lookbook"/>
   </folder>
@@ -24,22 +24,38 @@
     <file name="jquery.watch.js" crc="51536988" ref="index:lookbook:terms-conditions:contact:store:cold-nights-lookbook"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index:lookbook:terms-conditions:contact:store:cold-nights-lookbook"/>
     <file name="require.js" crc="7928878" ref="index:lookbook:terms-conditions:contact:store:cold-nights-lookbook"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="3780383706" ref="index:store"/>
+    <file name="a-master-favicon.ico" crc="3780383706" ref="index"/>
     <file name="header.jpg" crc="48766635" seo="true" ref="index:lookbook:terms-conditions:contact:store:cold-nights-lookbook">
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
+      <caption webpage="cold-nights-lookbook" alt=""/>
+      <caption webpage="cold-nights-lookbook" alt=""/>
+      <caption webpage="cold-nights-lookbook" alt=""/>
+      <caption webpage="cold-nights-lookbook" alt=""/>
+      <caption webpage="cold-nights-lookbook" alt=""/>
+      <caption webpage="cold-nights-lookbook" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="tracksuit-blackneon-green" alt=""/>
+      <caption webpage="tracksuit-blackneon-green" alt=""/>
+      <caption webpage="tracksuit-blackneon-green" alt=""/>
+      <caption webpage="tracksuit-blackneon-green" alt=""/>
+      <caption webpage="tracksuit-blackneon-green" alt=""/>
+      <caption webpage="tracksuit-blackneon-green" alt=""/>
       <caption webpage="terms-conditions" alt=""/>
       <caption webpage="terms-conditions" alt=""/>
       <caption webpage="terms-conditions" alt=""/>
@@ -58,50 +74,20 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="cold-nights-lookbook" alt=""/>
-      <caption webpage="cold-nights-lookbook" alt=""/>
-      <caption webpage="cold-nights-lookbook" alt=""/>
-      <caption webpage="cold-nights-lookbook" alt=""/>
-      <caption webpage="cold-nights-lookbook" alt=""/>
-      <caption webpage="cold-nights-lookbook" alt=""/>
-      <caption webpage="store" alt=""/>
-      <caption webpage="store" alt=""/>
-      <caption webpage="store" alt=""/>
-      <caption webpage="store" alt=""/>
-      <caption webpage="store" alt=""/>
-      <caption webpage="store" alt=""/>
-      <caption webpage="tracksuit-blackneon-green" alt=""/>
-      <caption webpage="tracksuit-blackneon-green" alt=""/>
-      <caption webpage="tracksuit-blackneon-green" alt=""/>
-      <caption webpage="tracksuit-blackneon-green" alt=""/>
-      <caption webpage="tracksuit-blackneon-green" alt=""/>
-      <caption webpage="tracksuit-blackneon-green" alt=""/>
-      <caption webpage="webstore" alt=""/>
-      <caption webpage="webstore" alt=""/>
-      <caption webpage="webstore" alt=""/>
-      <caption webpage="webstore" alt=""/>
-      <caption webpage="webstore" alt=""/>
-      <caption webpage="webstore" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:lookbook:terms-conditions:contact:store:cold-nights-lookbook"/>
-    <file name="img_1937-3-crop-u12687.jpg" crc="3846844240" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_1937-3-crop-u126872.jpg" crc="246001810" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_1945-crop-u12671.jpg" crc="3808127697" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_1945-crop-u126712.jpg" crc="73806277" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_1945-crop-u126713.jpg" crc="403028745" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_1945-crop-u126714.jpg" crc="4013507434" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="p1000801.jpg" crc="4206705670" seo="true" ref="cold-nights-lookbook">
       <caption webpage="cold-nights-lookbook" alt=""/>
       <caption webpage="lookbook" alt=""/>
@@ -193,24 +179,6 @@
     <file name="p1000755182x137.jpg" crc="4127041009" seo="true" ref="cold-nights-lookbook">
       <caption webpage="cold-nights-lookbook" alt=""/>
       <caption webpage="lookbook" alt=""/>
-    </file>
-    <file name="img_1937-3-crop-u12687_2x.jpg" crc="3790186852" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_1937-3-crop-u12687_2x2.jpg" crc="21659097" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_1945-crop-u12671_2x.jpg" crc="170419301" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_1945-crop-u12671_2x2.jpg" crc="235073345" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_1945-crop-u12671_2x3.jpg" crc="359738538" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_1945-crop-u12671_2x4.jpg" crc="3781428348" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
     </file>
     <file name="p1000801_2x.jpg" crc="3773283224" seo="true" ref="cold-nights-lookbook">
       <caption webpage="cold-nights-lookbook" alt=""/>
@@ -348,11 +316,120 @@
     <file name="img_7175-crop-u14824_2x6.jpg" crc="4161165706" seo="true" ref="cold-nights-lookbook">
       <caption webpage="cold-nights-lookbook" alt=""/>
     </file>
+    <file name="img_1937-crop-u14851.jpg" crc="3981682451" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1937-crop-u14851_2x.jpg" crc="278584930" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1985-crop-u15001.jpg" crc="3828262236" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1985-crop-u15001_2x.jpg" crc="185933604" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2125-crop-u15076.jpg" crc="126734051" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2125-crop-u15076_2x.jpg" crc="3783793" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="img_1937-crop-u148512.jpg" crc="4268471550" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1937-crop-u14851_2x2.jpg" crc="3036332" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1985-crop-u150012.jpg" crc="4089608249" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1985-crop-u15001_2x2.jpg" crc="358589116" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2125-crop-u150762.jpg" crc="127455851" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2125-crop-u15076_2x2.jpg" crc="3815434847" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1945-crop-u15280.jpg" crc="4288093297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1945-crop-u15280_2x.jpg" crc="4099379049" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_8682-crop-u15423.jpg" crc="3906860651" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_8682-crop-u15423_2x.jpg" crc="129163198" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2152-crop-u15510.jpg" crc="99223101" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2152-crop-u15510_2x.jpg" crc="3963178304" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1945-crop-u152802.jpg" crc="3935636797" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1945-crop-u15280_2x2.jpg" crc="3921766023" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_8682-crop-u154232.jpg" crc="83325780" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_8682-crop-u15423_2x2.jpg" crc="328910854" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2152-crop-u155102.jpg" crc="220232859" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2152-crop-u15510_2x2.jpg" crc="122755831" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1945-crop-u152803.jpg" crc="416354519" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1945-crop-u15280_2x3.jpg" crc="139647793" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_8682-crop-u154233.jpg" crc="4106843324" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_8682-crop-u15423_2x3.jpg" crc="4141843310" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2152-crop-u155103.jpg" crc="333734270" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2152-crop-u15510_2x3.jpg" crc="3940356396" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1945-crop-u152804.jpg" crc="4166950497" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1945-crop-u15280_2x4.jpg" crc="293534110" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_8682-crop-u154234.jpg" crc="147092117" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_8682-crop-u15423_2x4.jpg" crc="78000533" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2152-crop-u155104.jpg" crc="4028138231" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2152-crop-u15510_2x4.jpg" crc="372184848" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4241449296" seo="true" mt="1554183503316" redirect="true"/>
+  <file name="index.html" crc="32357683" seo="true" mt="1554184805825" redirect="true"/>
   <file name="lookbook.html" crc="50921908" seo="true" mt="1554182199830" redirect="true"/>
   <file name="terms-conditions.html" crc="509974560" seo="true" mt="1553690534376" redirect="true"/>
   <file name="contact.html" crc="4133794687" seo="true" mt="1553690534376" redirect="true"/>
-  <file name="store.html" crc="4003223159" seo="true" mt="1554181486027" redirect="true"/>
+  <file name="store.html" crc="463758029" seo="true" mt="1554183705672" redirect="true"/>
   <file name="cold-nights-lookbook.html" crc="511118780" seo="true" mt="1554182226993" redirect="true"/>
 </manifest>
