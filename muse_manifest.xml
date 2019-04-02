@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x,2x" timestamp="1554189073001">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x,2x" timestamp="1554189628792">
   <folder name="css">
     <file name="site_global.css" crc="390033707"/>
     <file name="master_a-master.css" crc="4059248257" ref="terms-conditions:contact:lookbook:index:store:cold-nights-lookbook"/>
@@ -7,8 +7,8 @@
     <file name="nomq_terms-conditions.css" crc="4020800073" ref="terms-conditions"/>
     <file name="contact.css" crc="4177191948" ref="contact"/>
     <file name="nomq_contact.css" crc="4124353861" ref="contact"/>
-    <file name="lookbook.css" crc="19951947" ref="lookbook"/>
-    <file name="nomq_lookbook.css" crc="4028140810" ref="lookbook"/>
+    <file name="lookbook.css" crc="350009550" ref="lookbook"/>
+    <file name="nomq_lookbook.css" crc="147194851" ref="lookbook"/>
     <file name="index.css" crc="3937345775" ref="index"/>
     <file name="nomq_index.css" crc="145957871" ref="index"/>
     <file name="store.css" crc="29927746" ref="store"/>
@@ -607,7 +607,7 @@
     </file>
   </folder>
   <file name="index.html" crc="293688752" seo="true" mt="1554189060468" redirect="true"/>
-  <file name="lookbook.html" crc="286337515" seo="true" mt="1554188347286" redirect="true"/>
+  <file name="lookbook.html" crc="313423949" seo="true" mt="1554189495531" redirect="true"/>
   <file name="terms-conditions.html" crc="509974560" seo="true" mt="1553690534376" redirect="true"/>
   <file name="contact.html" crc="4133794687" seo="true" mt="1553690534376" redirect="true"/>
   <file name="store.html" crc="4194339938" seo="true" mt="1554185203149" redirect="true"/>
