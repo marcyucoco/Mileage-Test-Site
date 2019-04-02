@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x,2x" timestamp="1554184815836">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mileageclothing.co.uk" resolutions="1x,2x" timestamp="1554185222887">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4059248257" ref="terms-conditions:contact:lookbook:index:store:cold-nights-lookbook"/>
@@ -11,8 +11,8 @@
     <file name="nomq_lookbook.css" crc="4026921262" ref="lookbook"/>
     <file name="index.css" crc="124667053" ref="index"/>
     <file name="nomq_index.css" crc="3875080831" ref="index"/>
-    <file name="store.css" crc="4000777631" ref="store"/>
-    <file name="nomq_store.css" crc="484810752" ref="store"/>
+    <file name="store.css" crc="29927746" ref="store"/>
+    <file name="nomq_store.css" crc="315772244" ref="store"/>
     <file name="cold-nights-lookbook.css" crc="14871254" ref="cold-nights-lookbook"/>
     <file name="nomq_cold-nights-lookbook.css" crc="4091118963" ref="cold-nights-lookbook"/>
   </folder>
@@ -30,7 +30,7 @@
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="3780383706" ref="index"/>
+    <file name="a-master-favicon.ico" crc="3780383706" ref="index:store"/>
     <file name="header.jpg" crc="48766635" seo="true" ref="index:lookbook:terms-conditions:contact:store:cold-nights-lookbook">
       <caption webpage="cold-nights-lookbook" alt=""/>
       <caption webpage="cold-nights-lookbook" alt=""/>
@@ -38,36 +38,36 @@
       <caption webpage="cold-nights-lookbook" alt=""/>
       <caption webpage="cold-nights-lookbook" alt=""/>
       <caption webpage="cold-nights-lookbook" alt=""/>
-      <caption webpage="webstore" alt=""/>
-      <caption webpage="webstore" alt=""/>
-      <caption webpage="webstore" alt=""/>
-      <caption webpage="webstore" alt=""/>
-      <caption webpage="webstore" alt=""/>
-      <caption webpage="webstore" alt=""/>
       <caption webpage="store" alt=""/>
       <caption webpage="store" alt=""/>
       <caption webpage="store" alt=""/>
       <caption webpage="store" alt=""/>
       <caption webpage="store" alt=""/>
       <caption webpage="store" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="webstore" alt=""/>
+      <caption webpage="webstore" alt=""/>
       <caption webpage="tracksuit-blackneon-green" alt=""/>
       <caption webpage="tracksuit-blackneon-green" alt=""/>
       <caption webpage="tracksuit-blackneon-green" alt=""/>
       <caption webpage="tracksuit-blackneon-green" alt=""/>
       <caption webpage="tracksuit-blackneon-green" alt=""/>
       <caption webpage="tracksuit-blackneon-green" alt=""/>
-      <caption webpage="terms-conditions" alt=""/>
-      <caption webpage="terms-conditions" alt=""/>
-      <caption webpage="terms-conditions" alt=""/>
-      <caption webpage="terms-conditions" alt=""/>
-      <caption webpage="terms-conditions" alt=""/>
-      <caption webpage="terms-conditions" alt=""/>
       <caption webpage="lookbook" alt=""/>
       <caption webpage="lookbook" alt=""/>
       <caption webpage="lookbook" alt=""/>
       <caption webpage="lookbook" alt=""/>
       <caption webpage="lookbook" alt=""/>
       <caption webpage="lookbook" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -80,12 +80,12 @@
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="terms-conditions" alt=""/>
+      <caption webpage="terms-conditions" alt=""/>
+      <caption webpage="terms-conditions" alt=""/>
+      <caption webpage="terms-conditions" alt=""/>
+      <caption webpage="terms-conditions" alt=""/>
+      <caption webpage="terms-conditions" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:lookbook:terms-conditions:contact:store:cold-nights-lookbook"/>
     <file name="p1000801.jpg" crc="4206705670" seo="true" ref="cold-nights-lookbook">
@@ -426,10 +426,10 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="32357683" seo="true" mt="1554184805825" redirect="true"/>
+  <file name="index.html" crc="229668159" seo="true" mt="1554185087036" redirect="true"/>
   <file name="lookbook.html" crc="50921908" seo="true" mt="1554182199830" redirect="true"/>
   <file name="terms-conditions.html" crc="509974560" seo="true" mt="1553690534376" redirect="true"/>
   <file name="contact.html" crc="4133794687" seo="true" mt="1553690534376" redirect="true"/>
-  <file name="store.html" crc="463758029" seo="true" mt="1554183705672" redirect="true"/>
+  <file name="store.html" crc="4194339938" seo="true" mt="1554185203149" redirect="true"/>
   <file name="cold-nights-lookbook.html" crc="511118780" seo="true" mt="1554182226993" redirect="true"/>
 </manifest>
